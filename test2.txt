@@ -1,3 +1,4 @@
 git init				Create  a new Git repo
 git add <filename>		Add file to Git 
 git commit -m "<msg>"	Commit added files to Git repo
+git log					Show repo history 
